@@ -11,7 +11,7 @@ If you cannot wait to acheving this progaram .
 
 You can add my QQ:3372819612 or Leave me a message；
 
-My Email address: gj3372819612@qq.com
+My Email address: gj3372819612@163.com
 
 welcome to be friends with me.
 
