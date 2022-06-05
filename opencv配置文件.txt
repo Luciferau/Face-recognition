@@ -1,0 +1,15 @@
+D:\opencv\build\include\opencv2
+D:\opencv\build\include\opencv
+D:\opencv\build\include
+inc
+
+lib\Win32
+D:\opencv\build\x64\vc12\lib
+
+
+
+
+libarcsoft_face_engine.lib
+opencv_core249d.lib
+opencv_highgui249d.lib
+opencv_imgproc249d.libs
