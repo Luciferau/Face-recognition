@@ -1,5 +1,5 @@
 # Face-recognition
-Face recognition system by c++  openCV and MFC.
+Face recognition system by c++  openCV  arcsoft SDK and MFC.
 
 The MFC main interface design.(You can change it to your favorite interface). 
 
