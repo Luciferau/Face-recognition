@@ -1,6 +1,6 @@
 # Face-recognition
 
-Face recognition system by c++  openCV  arcsoft SDK and MFC.
+Face recognition system by c++  openCV  arcsoft SDK and MFC.(It will be made into a monitoring system)
 
 The MFC main interface design.(You can change it to your favorite interface). 
 
@@ -25,3 +25,13 @@ If you look this line,please Illuminated the star.
 Thanks for reading.
 
 PS:Because there is an important exam recently，Code update may be pushed back.
+
+
+# Mainly text
+
+
+
+reference: 
+https://github.com/XY520/ToggleMute //source https://github.com/VigroX/ToggleMute
+
+Respect the spirit of open source!!
