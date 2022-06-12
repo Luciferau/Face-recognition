@@ -4,9 +4,9 @@ Face recognition system by c++  openCV  arcsoft SDK and MFC.(It will be made int
 
 The MFC main interface design.(You can change it to your favorite interface). 
 
-The openCV you can download at the opencv official website.
+The openCV you can download at the opencv official website.You also can leave me a message.
 
-You also can add the Face detection，I've written  thhis before,it also in my github. If you like you can download it.
+You also can add the Face detection，I've written  this before,it also in my github. If you like you can download it.
 
 If you cannot wait to acheving this progaram .
 
@@ -34,4 +34,4 @@ PS:Because there is an important exam recently，Code update may be pushed back.
 reference: 
 https://github.com/XY520/ToggleMute //source https://github.com/VigroX/ToggleMute
 
-Respect the spirit of open source!!
+## Respect the spirit of open source!!
